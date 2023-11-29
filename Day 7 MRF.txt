@@ -94,4 +94,4 @@ var arr = [12,13,14,15];
 var res = arr.reduce((acc,ele)=> acc+ele, 6);
 console.log(res);
 
-Task: restcountries api link - less than 1lakh population
+Task: restcountries api link - less than 1lakh population.
