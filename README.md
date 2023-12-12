@@ -2,4 +2,5 @@
 <h3 align="center">HTML,CSS, JS.</h3>
 https://rahuldkjain.github.io/gh-profile-readme-generator/ <br>
 https://cssgradient.io/ <br>
-https://www.canva.com/
+https://www.canva.com/ <br>
+https://flexboxfroggy.com/
